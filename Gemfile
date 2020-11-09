@@ -34,7 +34,6 @@ group :development, :test do
   gem 'capybara'
   gem 'factory_bot_rails'
   gem 'ffaker'
-  gem 'rails-controller-testing'
   gem 'rspec-rails', '~> 4.0.1'
   gem 'selenium-webdriver'
 end
